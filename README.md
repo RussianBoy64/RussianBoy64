@@ -26,7 +26,7 @@ W3schools</a> дающий доступ к обучающим материала
 
 - 👀 Сейчас я активно изучаю **JS, React**
 
-- 🌱 Пополняю свое <a href="https://github.com/RussianBoy64/Portfolio" rel="noreferrer"> 
+- <img src="https://user-images.githubusercontent.com/85865879/156126368-a57b7489-4ae0-4358-94c1-e34e9adf739f.png" width="20"> Пополняю свое <a href="https://github.com/RussianBoy64/Portfolio" rel="noreferrer"> 
 портфолио</a>
 
 - ⚡ Практикуюсь писать код на **CodeWars**
@@ -44,6 +44,6 @@ W3schools</a> дающий доступ к обучающим материала
 <h3 align="left">Связаться со мной можно:</h3>
 
 - 📫 По e-mail: **kozlachkovvd@gmail.com**
-- Telegram: **@vld_k64**
+- <img src="https://user-images.githubusercontent.com/85865879/156126650-579774b5-b08b-4b44-a638-72ab776ccce9.png" width="20"> Telegram: <a href="https://t.me/vld_k64" target="_blank" rel="noreferrer"> **@vld_k64** </a>
 
 
