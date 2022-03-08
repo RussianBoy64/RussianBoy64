@@ -43,7 +43,7 @@ W3schools</a> дающий доступ к обучающим материала
 
 <h3 align="left">Связаться со мной можно:</h3>
 
-- 📫 По e-mail: **kozlachkovvd@gmail.com**
+- 📫 E-mail: **kozlachkovvd@gmail.com**
 - <img src="https://user-images.githubusercontent.com/85865879/156126650-579774b5-b08b-4b44-a638-72ab776ccce9.png" width="20"> Telegram: <a href="https://t.me/vld_k64" target="_blank" rel="noreferrer"> **@vld_k64** </a>
 
 
