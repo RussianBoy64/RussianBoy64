@@ -26,7 +26,7 @@ W3schools</a> дающий доступ к обучающим материала
 
 - 👀 Сейчас я активно изучаю **JS, React**
 
-- <img src="https://user-images.githubusercontent.com/85865879/156126368-a57b7489-4ae0-4358-94c1-e34e9adf739f.png" width="20"> Пополняю свое <a href="https://github.com/RussianBoy64/Portfolio" rel="noreferrer"> 
+- <img src="https://user-images.githubusercontent.com/85865879/156126368-a57b7489-4ae0-4358-94c1-e34e9adf739f.png" width="20"> Пополняю свое <a href="https://russianboy64.github.io/rsschool-cv/" rel="noreferrer"> 
 портфолио</a>
 
 - ⚡ Практикуюсь писать код на **CodeWars**
