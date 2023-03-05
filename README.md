@@ -31,7 +31,7 @@ W3schools</a> дающий доступ к обучающим материала
 
 - ⚡ Практикуюсь писать код на **CodeWars**
 
-![codewars](https://www.codewars.com/users/RussianBoy64/badges/small)
+![codewars](https://www.codewars.com/users/Baruka/badges/large)
 
 <h3 align="left">Мои личные качества:</h3>
 
