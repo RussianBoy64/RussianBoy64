@@ -1,44 +1,20 @@
 <h1 align="center">Привет 👋, меня зовут Владимир!</h1>
-<h3 align="center">Я начинающий FrontEnd разработчик</h3>
 
-<h3 align="left">Мой старт</h3>
+<h3 align="left">Обо мне</h3>
 
-<p align="justify">В сентябре 2021 года я впервые задумался о смене профессии. Сферу выбирать мне не пришлось т.к. меня всегда привлекали информационные технологии, а вот со специализацией определиться было куда сложнее.</p>
+<p align="justify">Я Front-end разработчик из Саратова, мне 32 года. Пишу на React + Redux + Typescript больше года.</p>
 
-<p align="justify">Я решил начать с основ и записался на <a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x" target="_blank" rel="noreferrer"> CS50's Introduction to Computer Science </a> который стал для меня хорошей площадкой для старта и приоткрыл завесу тайны над:</p>
-
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a></p>
-
-<p align="justify">На курсе приходилось решать много интересных задач начиная с написания простых программ по шифровке сообщений или определения сложности чтения текста написанных на языке «С» и заканчивая написанием приложения, имитирующего торговлю ценными бумагами с авторизацией, работой с внешним API и базой данных(SQLite), реализацией BackEnd и FrontEnd части.</p>
-
-<p align="justify">Данный курс разжег во мне небывалый интерес и желание работать, и развиваться в IT-сфере, а также помог четко определиться с дальнейшим вектором моего становления именно в качестве FrontEnd разработчика.</p>
-
-<p align="justify">Для дальнейшего обучения я выбрал ресурс <a href="https://www.w3schools.com/" target="_blank" rel="noreferrer"> 
-W3schools</a> дающий доступ к обучающим материалам на английском языке по множеству востребованным технологиям.</p>
-
-
-<h3 align="left">Мой текущий стэк:</h3>
+<h3 align="left">Стэк:</h3>
 <p align="left"> <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="scss" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://ru.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/react-native.png" alt="react" width="40" height="40"/>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt="redux" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="typescript" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></p>
+  
+ <img src="https://www.codewars.com/users/Baruka/badges/large" alt="codeWars profile"/>
 
-<h3 align="left">На данный момент</h3>
-
-- 🔭 Я ищу новую работу на позицию **Junior FrontEnd Developer**
-
-- 👀 Сейчас я активно изучаю **JS, React**
-
-- <img src="https://user-images.githubusercontent.com/85865879/156126368-a57b7489-4ae0-4358-94c1-e34e9adf739f.png" width="20"> Пополняю свое <a href="https://russianboy64.github.io/rsschool-cv/cv-rus" rel="noreferrer"> 
-портфолио</a>
-
-- ⚡ Практикуюсь писать код на **CodeWars**
-
-![codewars](https://www.codewars.com/users/Baruka/badges/large)
-
-<h3 align="left">Мои личные качества:</h3>
+<h3 align="left">Личные качества:</h3>
 
 - Коммуникабельный
 - Целеустремленный
@@ -46,9 +22,23 @@ W3schools</a> дающий доступ к обучающим материала
 - Умею работать в команде
 - Самостоятельный
 
-<h3 align="left">Связаться со мной можно:</h3>
+<h3 align="left">Образование:</h3>
+- <a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x" target="_blank" rel="noreferrer">CS50's Introduction to Computer Science</a><br>
+- <a href="https://javascript30.com/" target="_blank" rel="noreferrer">#JavaScript30</a><br>
+- <a href="https://www.udemy.com/course/react-2020-complete-guide" target="_blank" rel="noreferrer">ReactJS. Practical course 2020</a><br>
+- <a href="https://rs.school/" target="_blank" rel="noreferrer">RSSchool. Pre-School 2022</a><br>
+- <a href="https://rs.school/js/" target="_blank" rel="noreferrer">RSSchool. School Front-end 2022Q3</a><br>
 
-- 📫 E-mail: **kozlachkovvd@gmail.com**
-- <img src="https://user-images.githubusercontent.com/85865879/156126650-579774b5-b08b-4b44-a638-72ab776ccce9.png" width="20"> Telegram: <a href="https://t.me/vld_k64" target="_blank" rel="noreferrer"> **@vld_k64** </a>
+<h3 align="left">Контакты:</h3>
+
+- **E-mail:** kozlachkovvd@gmail.com
+- **Телефон:** +7 (927) 050-79-40
+- **Telegram:** [@vld_k64](https://t.me/vld_k64)
+- **Локация:** Саратов, Россия
+
+
+
+
+
 
 
